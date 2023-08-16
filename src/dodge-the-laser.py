@@ -1,9 +1,8 @@
 from decimal import Decimal, getcontext
-# beatty sequence
-# S(m.sqrt(2), n) = (n + n_) * (n + n_ + 1) / 2 - S(2 + m.sqrt(2), n_)
+# Beatty sequence
+# S(sqrt(2), n) = (n + n_) * (n + n_ + 1) / 2 - S(2 + sqrt(2), n_)
 
 def solution(s):
-    # Beatty Sequence
     n = int(s)
     if n < 1:
         return 0
@@ -22,5 +21,4 @@ def solution(s):
 
 assert solution('5') == '19'
 assert solution('77') == '4208'
-# print(solution(10**105))
 
