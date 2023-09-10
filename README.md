@@ -1,5 +1,5 @@
 # Google-Foobar-Challenge
-My solutions for Google's secret hiring process.
+My solutions for Google's FooBar.
 
 While working on hacking kernel, the Google page slanted and an inscription appeared `You're speaking our language. Up for a challenge?` and i got secret invitations.
 
@@ -8,6 +8,7 @@ I learned a lot during these challenges and i post my solutions here.
 ##### I implemented algorithms like:
 - Absorbing markov chain
 - Maximum bipartite matching
-- Dynamically deriving linear equations
 
-And other interesting problems (actually 10 challenges)
+And other interesting problems (actually 9 challenges per challenge and 2 challenges and some bonus problems)
+
+But recently i got new invitations, to new list of problems and i solve this time in java.
