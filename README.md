@@ -9,6 +9,6 @@ I learned a lot during these challenges and i post my solutions here.
 - Absorbing markov chain
 - Maximum bipartite matching
 
-And other interesting problems (actually 9 challenges per challenge and 2 challenges and some bonus problems)
+And other interesting problems (actually 10+ challenges, because some bonus problems)
 
-But recently i got new invitations, to new list of problems and i solve this time in java.
+But recently i got new invitations and i solve this time in java.
